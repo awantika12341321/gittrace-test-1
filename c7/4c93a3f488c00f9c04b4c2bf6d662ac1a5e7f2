@@ -1,0 +1,19 @@
+numbers.md
+  s_e787ab062a4f22::t_9c708f7e8789e0 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.6.14",
+  "base_commit_sha": "c74c93a3f488c00f9c04b4c2bf6d662ac1a5e7f2",
+  "prompts": {},
+  "sessions": {
+    "s_e787ab062a4f22": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2f022ffb-5d9b-47ca-b52c-c19b0a816f80",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "awantika12341321 <awantikachettri171@gmail.com>"
+    }
+  }
+}
