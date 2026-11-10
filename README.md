@@ -1,2 +1,2 @@
 # gittrace-test-1
-Ankit Chhetri
+Author: Ankit Chhetri
