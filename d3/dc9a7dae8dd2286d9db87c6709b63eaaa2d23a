@@ -1,0 +1,28 @@
+README.md
+  s_dcc8b1e285fb0d::t_540fb3fbcbb0a9 9
+  s_a2a54c89c0ec5f::t_f2db3b09a82e1f 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "d3dc9a7dae8dd2286d9db87c6709b63eaaa2d23a",
+  "prompts": {},
+  "sessions": {
+    "s_a2a54c89c0ec5f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "af618bbb-58da-4c89-82d4-eebae0137db2",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "awantika12341321 <awantikachettri171@gmail.com>"
+    },
+    "s_dcc8b1e285fb0d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b7d2d173-99f1-45c7-9231-cafa384c55cd",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "awantika12341321 <awantikachettri171@gmail.com>"
+    }
+  }
+}
