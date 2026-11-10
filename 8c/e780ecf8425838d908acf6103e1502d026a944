@@ -1,0 +1,19 @@
+README.md
+  s_3037c9cbd4e8f5::t_7b7b00a706642b 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "8ce780ecf8425838d908acf6103e1502d026a944",
+  "prompts": {},
+  "sessions": {
+    "s_3037c9cbd4e8f5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "813688df-5ea6-4ea2-afbf-502a5241c361",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "awantika12341321 <awantikachettri171@gmail.com>"
+    }
+  }
+}
