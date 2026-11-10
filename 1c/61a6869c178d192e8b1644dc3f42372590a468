@@ -1,0 +1,19 @@
+README.md
+  s_2d506ed4abef36::t_8908709a93bd11 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "1c61a6869c178d192e8b1644dc3f42372590a468",
+  "prompts": {},
+  "sessions": {
+    "s_2d506ed4abef36": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e3ccab3d-bc12-4183-a893-6764bd34883e",
+        "model": "unknown"
+      },
+      "human_author": "awantika12341321 <awantikachettri171@gmail.com>"
+    }
+  }
+}
